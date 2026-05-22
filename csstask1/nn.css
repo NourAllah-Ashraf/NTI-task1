@@ -1,0 +1,96 @@
+
+.box1{
+    background-color: rgb(4, 134, 247);
+
+    width: 400px;
+    height: 400px;
+
+    padding: 80px;
+
+ 
+
+    border-top: 3px solid rgb(4, 134, 247);
+    border-right: 3px solid rgb(4, 134, 247);
+    border-bottom: 3px solid rgb(4, 134, 247);
+    border-left: 3px solid rgb(4, 134, 247);
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.box2{
+    background-color: rgb(235, 238, 241);
+
+    width: 400px;
+    height: 400px;
+
+    padding: 80px;
+
+
+
+  
+    border-top: 3px solid rgb(235, 238, 241);
+    border-right: 3px solid rgb(235, 238, 241);
+    border-bottom: 3px solid rgb(235, 238, 241);
+    border-left: 3px solid rgb(235, 238, 241);
+}
+.required-text {
+  display: block;           
+  font-size: 12px;          
+  color: #666666;           
+  margin-bottom: 8px;       
+  text-align: auto;         
+  font-family: sans-serif;   
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-family: bold;
+}
+form{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.contact-form input, 
+.contact-form textarea {
+  background-color: #b9b7b779;
+  border: none;           
+  size: 16px;  
+  padding: 7px;
+   height:50;
+  width: 260px;
+}
+button{
+    background-color: rgb(4, 134, 247);
+    color: white;
+    font-size: 10px;
+    padding: 10px 40px;
+    border: none;
+    cursor: pointer;
+  
+    border-radius: 50px;
+
+
+}
+
+.container{
+    display: flex;
+    gap: 0px;
+    align-items: flex-start;
+    margin-left: 120px;
+    margin-top: 60px;
+
+}
